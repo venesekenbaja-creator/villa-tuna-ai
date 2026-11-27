@@ -1,1 +1,1 @@
-print("Villa Tuna AI is running")
+print("Welcome to Villa Tuna AI")
